@@ -1,0 +1,244 @@
+id: 325082da50314f928eeefe1de260cebf
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  e438b96e24f54e10ae304589bfd91ffe:
+    work_id: D4422
+    span:
+      vol: 120
+      start: 48531
+      end: 54097
+  17efb66c4d8b4dec98c635bffc39bb3f:
+    work_id: ''
+    span:
+      vol: 120
+      start: 85987
+      end: 90731
+  faf956dc3b504f5b8c5375410dbf3ee8:
+    work_id: D4424
+    span:
+      vol: 120
+      start: 122674
+      end: 127536
+  f4a5f9c7fb4b4e7bbae43e187a21f40e:
+    work_id: D4425
+    span:
+      vol: 120
+      start: 137050
+      end: 139118
+  dd25199a3bfa4226aa4af6ccbecb1507:
+    work_id: ''
+    span:
+      vol: 120
+      start: 239814
+      end: 251433
+  8b4758f5310f4e34bf03df873bc77e89:
+    work_id: ''
+    span:
+      vol: 120
+      start: 261325
+      end: 263806
+  6983b5bea7ee46e8b85881cbfcc967df:
+    work_id: D4428
+    span:
+      vol: 120
+      start: 390663
+      end: 405231
+  f50cd51a4d934867939c59191940571c:
+    work_id: D4429
+    span:
+      vol: 120
+      start: 437148
+      end: 439721
+  741b53c428904cdc9a2409c9b415c9d9:
+    work_id: ''
+    span:
+      vol: 120
+      start: 477135
+      end: 480864
+  c1fc5a5496054cd196b406efe8bc82eb:
+    work_id: ''
+    span:
+      vol: 120
+      start: 506524
+      end: 510733
+  2135ff20336c42a8bb0cbb6b2da8447d:
+    work_id: D4432
+    span:
+      vol: 120
+      start: 536557
+      end: 538360
+  69d1b5e2c20b48058fe9bb77404ee898:
+    work_id: ''
+    span:
+      vol: 120
+      start: 660905
+      end: 674646
+  b690965617e6448f93ebc3e02be6d4e1:
+    work_id: ''
+    span:
+      vol: 120
+      start: 972560
+      end: 1007277
+  3286a9a5f57d4177b40adb52b7d2ec1f:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1031002
+      end: 1035033
+  e8e6e9b96a8245449199efd27c7aed67:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1156118
+      end: 1176103
+  b5260d9daab24712b920be5a65d4b450:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1196087
+      end: 1200501
+  5717f394941c4ebfb762e26f2a9be84a:
+    work_id: D4440
+    span:
+      vol: 120
+      start: 1240235
+      end: 1246479
+  4ca31bcc2ea4418b9d23b5e2e1824e21:
+    work_id: D4441
+    span:
+      vol: 120
+      start: 1266010
+      end: 1269384
+  81abec39d9644dc996e885e7861fe496:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1274669
+      end: 1275901
+  efc074202fcd4e89a16f1ea44bf8173d:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1285120
+      end: 1287189
+  77bbd59c58414f0dbc9be67af9ba257a:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1292381
+      end: 1294371
+  00ea207334bb4758a41bf6c669c8ea27:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1316107
+      end: 1319978
+  60f2adc423744ad2a045945c919bcd59:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1350692
+      end: 1356280
+  09e8d9469f414ab6bea5cf7a72ea90e4:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1358849
+      end: 1360052
+  2d385207d63f4758aaebedbc4b5496a1:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1361191
+      end: 1363257
+  7c93d51929084ab5bb3b1ff4709dedaf:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1365616
+      end: 1366474
+  7c185ae7c9d247dcac3c5faaf1cf7eec:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1367484
+      end: 1368570
+  cb42f2f1a51848ed8521f4f46432fe2c:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1370981
+      end: 1372132
+  3c22e70fc87643ca91d9dc1daa3e4667:
+    work_id: ''
+    span:
+      vol: 120
+      start: 1604279
+      end: 1628579
+  4f1cd5fc5efa49898718ae432c1aa300:
+    work_id: D4453
+    span:
+      vol: 120
+      start: 1938794
+      end: 1971250
+  4399a44b187b4b0da8dcd9800a1b13b5:
+    work_id: ''
+    span:
+      vol: 120
+      start: 2236466
+      end: 2263829
+  4326621a9a6b4594b185f45123e5c1b6:
+    work_id: D4455
+    span:
+      vol: 120
+      start: 2300231
+      end: 2304324
+  5e3421d125f74168bebd83d43ac7d654:
+    work_id: D4456
+    span:
+      vol: 120
+      start: 2350921
+      end: 2358325
+  bd4cbea8ce974c5cb65b7505c740a57d:
+    work_id: ''
+    span:
+      vol: 120
+      start: 2373741
+      end: 2376551
+  bdef4450cc1946d0a94c1dd08cec014d:
+    work_id: ''
+    span:
+      vol: 120
+      start: 2393596
+      end: 2396308
+  6e7644c7396a42deb27f2a2106c55597:
+    work_id: ''
+    span:
+      vol: 120
+      start: 2524816
+      end: 2536865
+  b5f9beedab1b46a1aca269f044f29fb5:
+    work_id: D4461
+    span:
+      vol: 120
+      start: 2541765
+      end: 2544067
+  847978a8b88a4eb8b0267f3f02369921:
+    work_id: D4462
+    span:
+      vol: 120
+      start: 2546570
+      end: 2547500
+  017a6d367e7e4912936f88dd8c4e4fcd:
+    work_id: ''
+    span:
+      vol: 120
+      start: 2549828
+      end: 2550822
+  366ef85efed24b61b9e2627bb7a777f1:
+    work_id: D4464
+    span:
+      vol: 120
+      start: 2589574
+      end: 2595139

@@ -1,0 +1,52 @@
+id: c0ce51f93052443dafbde4e2d5691e3a
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  43235661fa4b4efeb26d60bf3a03eac6:
+    work_id: D4027
+    span:
+      vol: 71
+      start: 93123
+      end: 102159
+  eede7e2c74b2435f97e380914b72c001:
+    work_id: D4028
+    span:
+      vol: 71
+      start: 139491
+      end: 144571
+  cd5a5a20eeb648818d3e273b795838f6:
+    work_id: D4029
+    span:
+      vol: 71
+      start: 606083
+      end: 659678
+  36c73ef353dc45d4b58ec8a1958663f1:
+    work_id: D4030
+    span:
+      vol: 71
+      start: 691527
+      end: 694088
+  cd671dcdcb834b58abbe12e5d2a3852d:
+    work_id: D4031
+    span:
+      vol: 71
+      start: 714036
+      end: 715923
+  22c1b1fbe08e4f7881c5e23be502342b:
+    work_id: D4032
+    span:
+      vol: 71
+      start: 1162529
+      end: 1197518
+  59574f78c71c493591d12f70c5098329:
+    work_id: ''
+    span:
+      vol: 71
+      start: 1290468
+      end: 1297356
+  bce571c8b5974e71bc1cbbc109b125a6:
+    work_id: ''
+    span:
+      vol: 71
+      start: 2277645
+      end: 2381064

@@ -1,0 +1,106 @@
+id: 5e72d2cba9164353a6f3d5b895d07956
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  29bd5170afc4444eb439410ba7c390a4:
+    work_id: D4203
+    span:
+      vol: 97
+      start: 42700
+      end: 43312
+  fe697a0341a24728980637a594d6a227:
+    work_id: ''
+    span:
+      vol: 97
+      start: 74563
+      end: 75693
+  e7607d49984d49a0becfe1e4bee31ef3:
+    work_id: D4204
+    span:
+      vol: 97
+      start: 326663
+      end: 359799
+  a51f2c4480e84adda6cdd5e5fa001889:
+    work_id: D4204
+    span:
+      vol: 97
+      start: 602436
+      end: 607969
+  a411459f8fab452280459b1ecc08a9c3:
+    work_id: D4205
+    span:
+      vol: 97
+      start: 608738
+      end: 609825
+  6bfa5ade55704bff8ee9fabdb4dc3dbf:
+    work_id: D4206
+    span:
+      vol: 97
+      start: 614507
+      end: 615602
+  79ecdf5862184e408ecc86fc07b11ada:
+    work_id: D4207
+    span:
+      vol: 97
+      start: 619126
+      end: 620805
+  fbfc795b694741c39499b7e4b83b3332:
+    work_id: ''
+    span:
+      vol: 97
+      start: 633976
+      end: 634633
+  af928df042864ffaa0951ab9bd258110:
+    work_id: D4208
+    span:
+      vol: 97
+      start: 648067
+      end: 650664
+  7fa6002cfaab4939991ea3fbc24bf6cf:
+    work_id: D4209
+    span:
+      vol: 97
+      start: 652452
+      end: 655226
+  310f19b6bbb84202a160ead569e7ca0c:
+    work_id: ''
+    span:
+      vol: 97
+      start: 838004
+      end: 858360
+  109e6056232e49c1a32caeed43fecaeb:
+    work_id: D4211
+    span:
+      vol: 97
+      start: 1107397
+      end: 1146295
+  c8b1d9c01d5248e5bc5856990b341989:
+    work_id: D4212
+    span:
+      vol: 97
+      start: 1169576
+      end: 1174441
+  1c6d5a4b63694566bd1adfb180c46eef:
+    work_id: D4213
+    span:
+      vol: 97
+      start: 1233373
+      end: 1244188
+  44cbfa6a2b834b75915be7b8a85f5ce5:
+    work_id: D4214
+    span:
+      vol: 97
+      start: 1247622
+      end: 1248648
+  8d2e1534e9df48c9be8dd56cf05885c2:
+    work_id: D4215
+    span:
+      vol: 97
+      start: 1267554
+      end: 1270596
+  eb3cf43ac68246f8a2bfc0d88501e94e:
+    work_id: D4216
+    span:
+      vol: 97
+      start: 1624525
+      end: 1660600

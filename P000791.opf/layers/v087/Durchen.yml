@@ -1,0 +1,22 @@
+id: 6c844ec82c134d779c731ad9f110f96b
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  46c4cbe8c3af4388a605ca9935fe1df4:
+    work_id: D4112
+    span:
+      vol: 87
+      start: 626937
+      end: 709743
+  cfc1d453f8e34856b9b99623923a15dd:
+    work_id: D4113
+    span:
+      vol: 87
+      start: 1232221
+      end: 1303890
+  fd430a518722470fbb7f51ba45086d82:
+    work_id: D4114
+    span:
+      vol: 87
+      start: 2036813
+      end: 2137524

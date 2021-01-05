@@ -1,0 +1,118 @@
+id: 0d195e7da5d340f4bdff21885019bc20
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  6be5006429cc428396caab73ef251f38:
+    work_id: D4070
+    span:
+      vol: 78
+      start: 215888
+      end: 232045
+  54b3589f24eb4f7d8869fc0fa803ee2b:
+    work_id: D4071
+    span:
+      vol: 78
+      start: 366066
+      end: 381915
+  ed8cbcad3f88483dbb81624bec9f4741:
+    work_id: D4072
+    span:
+      vol: 78
+      start: 444571
+      end: 453435
+  4bc39b7bc33441698de98694bfb1e2b6:
+    work_id: D4073
+    span:
+      vol: 78
+      start: 474353
+      end: 477521
+  2ec43f5a09674ad2b3992e4633f1e1df:
+    work_id: D4074
+    span:
+      vol: 78
+      start: 479715
+      end: 480399
+  4b3bbcfcf3454ede969ce0bc29832e82:
+    work_id: D4075
+    span:
+      vol: 78
+      start: 483525
+      end: 484376
+  fd74853821ac48d79c1275d49e04445e:
+    work_id: D4076
+    span:
+      vol: 78
+      start: 490699
+      end: 492581
+  db9216f9e4c44d09b08c62859eb53544:
+    work_id: ''
+    span:
+      vol: 78
+      start: 496214
+      end: 497191
+  3552371464aa41e49ae5936ce9cf360c:
+    work_id: D4078
+    span:
+      vol: 78
+      start: 505585
+      end: 506819
+  6b6aef1d7f424d70bb9bce7b97078eff:
+    work_id: ''
+    span:
+      vol: 78
+      start: 606659
+      end: 614941
+  e18b8e0d5539495896d5f4b462b3459b:
+    work_id: D4080
+    span:
+      vol: 78
+      start: 628135
+      end: 629820
+  d49a577c89874e80bca77b79e893c8e8:
+    work_id: D4081
+    span:
+      vol: 78
+      start: 632028
+      end: 633569
+  b29cb319fae6473bbb54a7d9bb93a07f:
+    work_id: D4082
+    span:
+      vol: 78
+      start: 691812
+      end: 698600
+  0ad499de0e224be0980e1cba6bcbeb1d:
+    work_id: D4083
+    span:
+      vol: 78
+      start: 809830
+      end: 824698
+  47c68a9165694e55aa88d8178c15d82f:
+    work_id: D4084
+    span:
+      vol: 78
+      start: 843272
+      end: 846792
+  4dd104c1df0f480db76b5c9b326fac36:
+    work_id: D4085
+    span:
+      vol: 78
+      start: 873516
+      end: 876292
+  6aef5f0121e64d9bacc7440acd440422:
+    work_id: D4086
+    span:
+      vol: 78
+      start: 1189146
+      end: 1222681
+  e928055aa40b4e87a010efe6928fbb78:
+    work_id: D4087
+    span:
+      vol: 78
+      start: 1490411
+      end: 1516151
+  308d18b37d734ab0a839f3bc6b99525c:
+    work_id: D4088
+    span:
+      vol: 78
+      start: 1702732
+      end: 1715590

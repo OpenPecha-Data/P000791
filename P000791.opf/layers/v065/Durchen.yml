@@ -1,0 +1,208 @@
+id: b70f90f2e2e64d6998c17b7c194b7958
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  91d003368fc4489db7208dc54c9f1a20:
+    work_id: D3961
+    span:
+      vol: 65
+      start: 703244
+      end: 785022
+  e8dd291dbfe74707ab7d3975ed77780c:
+    work_id: D3962
+    span:
+      vol: 65
+      start: 789866
+      end: 791744
+  547f533339c84ff0a12393329517d5a6:
+    work_id: D3963
+    span:
+      vol: 65
+      start: 799253
+      end: 801088
+  e0f8225540944331a8c565afb233d239:
+    work_id: D3964
+    span:
+      vol: 65
+      start: 918269
+      end: 931313
+  16b97919326a4f0c8c3f25fdf5bfe27b:
+    work_id: D3965
+    span:
+      vol: 65
+      start: 937527
+      end: 938745
+  810490f163ba4ba29d47b6894b800d7d:
+    work_id: D3966
+    span:
+      vol: 65
+      start: 945985
+      end: 947086
+  99a89ca6e3d2430ea8da02fd9ed6c13e:
+    work_id: D3967
+    span:
+      vol: 65
+      start: 956334
+      end: 957576
+  e5f102e413e24c52bd56c8e07c03266c:
+    work_id: D3968
+    span:
+      vol: 65
+      start: 968453
+      end: 970976
+  9354d774e7c644e4b488270e9f630053:
+    work_id: D3969
+    span:
+      vol: 65
+      start: 983169
+      end: 984428
+  dca100a8276447c5bb8e07fab883c71e:
+    work_id: D3970
+    span:
+      vol: 65
+      start: 992464
+      end: 993976
+  7306297fa3ef40908a5215d41699bf78:
+    work_id: ''
+    span:
+      vol: 65
+      start: 1003175
+      end: 1004339
+  e942826bc7ab44a7b813937be1a7e471:
+    work_id: D3972
+    span:
+      vol: 65
+      start: 1006493
+      end: 1007484
+  e2a4653b672c4716bde658136fbd2fe0:
+    work_id: D3973
+    span:
+      vol: 65
+      start: 1011073
+      end: 1012275
+  51bc308d9d624495a9089e47eb265083:
+    work_id: D3974
+    span:
+      vol: 65
+      start: 1014464
+      end: 1015363
+  c48963e1bd75408392db75b5a3f6dde4:
+    work_id: ''
+    span:
+      vol: 65
+      start: 1017656
+      end: 1018721
+  68075aa4ec834b32a5b7e2d574de5fdb:
+    work_id: ''
+    span:
+      vol: 65
+      start: 1020828
+      end: 1021978
+  56695de02eed4c6a9f41f2ec33b1b09b:
+    work_id: D3977
+    span:
+      vol: 65
+      start: 1024477
+      end: 1025624
+  7478fad692ba484e9bb46d557ec611f8:
+    work_id: D3978
+    span:
+      vol: 65
+      start: 1030142
+      end: 1031249
+  868c0ced14a64efda82f522d458941ce:
+    work_id: D3979
+    span:
+      vol: 65
+      start: 1033465
+      end: 1034328
+  e2030eaf22f34c3b9d6a53a487a69da5:
+    work_id: D3980
+    span:
+      vol: 65
+      start: 1036380
+      end: 1037642
+  1e36a44926a8499abcf7f4be2c75b409:
+    work_id: D3981
+    span:
+      vol: 65
+      start: 1072174
+      end: 1077331
+  b249413ebf3e41d8ae64b934733cce3d:
+    work_id: ''
+    span:
+      vol: 65
+      start: 1089642
+      end: 1092570
+  070fa7b50aca4971892671f40c9c7c40:
+    work_id: D3983
+    span:
+      vol: 65
+      start: 1094762
+      end: 1095787
+  290118ddd5c744f3b419e9711eb506f0:
+    work_id: D3984
+    span:
+      vol: 65
+      start: 1103745
+      end: 1104895
+  44f7bec930d4468798bb74a793126a15:
+    work_id: D3985
+    span:
+      vol: 65
+      start: 1113935
+      end: 1116033
+  9975d42967524ce3a48bbe4cf0b53b27:
+    work_id: D3986
+    span:
+      vol: 65
+      start: 1242836
+      end: 1264505
+  2d9a9554362243dea6534c350d690927:
+    work_id: D3987
+    span:
+      vol: 65
+      start: 1293788
+      end: 1296232
+  a67762064b4a489689435cf3b9d046d9:
+    work_id: D3988
+    span:
+      vol: 65
+      start: 1300030
+      end: 1301125
+  24b0e75bc42e4dd1af45233e3204b955:
+    work_id: D3989
+    span:
+      vol: 65
+      start: 1304985
+      end: 1307158
+  fb616131dd7c4e84a28f2a591dca86b2:
+    work_id: D3990
+    span:
+      vol: 65
+      start: 1310707
+      end: 1311704
+  5d2d0f2ec0bf464c99a55ed04b379bd6:
+    work_id: ''
+    span:
+      vol: 65
+      start: 1328495
+      end: 1330955
+  247c88e289d64338afbec3101269d7fe:
+    work_id: ''
+    span:
+      vol: 65
+      start: 1347646
+      end: 1349813
+  286387f0a5ce4582a65f3e769330d95c:
+    work_id: D3992
+    span:
+      vol: 65
+      start: 1446825
+      end: 1455962
+  3bfdf1faff4549b6b1516a7e8712f650:
+    work_id: D3993
+    span:
+      vol: 65
+      start: 2033486
+      end: 2087608

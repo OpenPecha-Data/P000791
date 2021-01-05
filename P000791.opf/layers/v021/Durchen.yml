@@ -1,0 +1,112 @@
+id: 9fd4ece874bc4716b85ecba8362596a1
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  941ab5e8d5e847fa9b25b9b95d855ce4:
+    work_id: D1851
+    span:
+      vol: 21
+      start: 442976
+      end: 501756
+  06a822bfb3ff4afcaf7940e8304d24bb:
+    work_id: D1852
+    span:
+      vol: 21
+      start: 1188369
+      end: 1250077
+  7298f03843cc4fc694f91983087b311b:
+    work_id: D1853
+    span:
+      vol: 21
+      start: 1304414
+      end: 1312874
+  7befbcfcfecb420381d1fff821852d9b:
+    work_id: ''
+    span:
+      vol: 21
+      start: 1353151
+      end: 1359221
+  514a39a06e2a46779c8cb4a48ef96e07:
+    work_id: D1855
+    span:
+      vol: 21
+      start: 1385610
+      end: 1389650
+  17d742c1186a4eedb1b78ebd7fe3db41:
+    work_id: D1856
+    span:
+      vol: 21
+      start: 1413734
+      end: 1417965
+  428153c5290944ffabbcfdf876cf1cce:
+    work_id: D3291
+    span:
+      vol: 21
+      start: 1420421
+      end: 1421417
+  1ce791e4b0874313b8a96352b74c9e13:
+    work_id: D1858
+    span:
+      vol: 21
+      start: 1434016
+      end: 1436613
+  ff47e93d0d6846149d7d2ec877b87c46:
+    work_id: D1859
+    span:
+      vol: 21
+      start: 1455842
+      end: 1458565
+  abe9b6f385f84b8a890b5b510c169204:
+    work_id: D1860
+    span:
+      vol: 21
+      start: 1494136
+      end: 1498111
+  199ca5ce06f4441d83a1446c161ffb0c:
+    work_id: D1861
+    span:
+      vol: 21
+      start: 1504955
+      end: 1508004
+  0dd45f9250e4497a8df27a25c5d1bfc8:
+    work_id: D1862
+    span:
+      vol: 21
+      start: 1511704
+      end: 1512875
+  dc3c177251394dd3a46daf2d246e9950:
+    work_id: D1863
+    span:
+      vol: 21
+      start: 1516941
+      end: 1518710
+  6cb994843a614ff2af19c05b17979d96:
+    work_id: D1864
+    span:
+      vol: 21
+      start: 1528007
+      end: 1530288
+  6b27c8292f4d479f880b3fc8a2cf5cae:
+    work_id: D1865
+    span:
+      vol: 21
+      start: 1590112
+      end: 1598246
+  6f3315fbe8d34df9ab85dad8e74a0fe4:
+    work_id: D1866
+    span:
+      vol: 21
+      start: 1783914
+      end: 1808604
+  5ca250fc3e53489fb3df6c9183c7b9f6:
+    work_id: D1867
+    span:
+      vol: 21
+      start: 1971187
+      end: 1985583
+  6b86d1181acc438995937f73b35bd70d:
+    work_id: D1868
+    span:
+      vol: 21
+      start: 2132461
+      end: 2146642

@@ -1,0 +1,112 @@
+id: aa684f96df7c421f91f5eca34516f1b9
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  512f491478be45c6a8748ddd62039663:
+    work_id: D3998
+    span:
+      vol: 67
+      start: 435317
+      end: 470048
+  a4be665bf3bc4e25a016d547e4f1fd58:
+    work_id: ''
+    span:
+      vol: 67
+      start: 482114
+      end: 483795
+  89631dd7bde04ae1bfc2aa8a60b6bd7a:
+    work_id: D4000
+    span:
+      vol: 67
+      start: 562362
+      end: 569665
+  15beaa72339b46679753b522fd070fd6:
+    work_id: D4001
+    span:
+      vol: 67
+      start: 631269
+      end: 635577
+  f2345b9999434b46a51d0e43afa41c13:
+    work_id: D4002
+    span:
+      vol: 67
+      start: 660101
+      end: 663166
+  5d2bd5e818b645cb8bfe652a23aaab13:
+    work_id: D4003
+    span:
+      vol: 67
+      start: 673885
+      end: 675160
+  a8a4f87a3d57465fa35ebf928ea5d366:
+    work_id: D4004
+    span:
+      vol: 67
+      start: 688569
+      end: 691328
+  063484cd11f3475f939fbec58933b960:
+    work_id: D4005
+    span:
+      vol: 67
+      start: 723558
+      end: 726543
+  264f586e169e45d6a167ed8820c068dd:
+    work_id: D4006
+    span:
+      vol: 67
+      start: 749791
+      end: 753482
+  870f0c69ceb748cb85c90fe01425703c:
+    work_id: D4007
+    span:
+      vol: 67
+      start: 770958
+      end: 774271
+  18340e3bf8e441989a3b6af4852d1135:
+    work_id: D4008
+    span:
+      vol: 67
+      start: 777243
+      end: 778149
+  0072cd9bf8984d269564737c9c9072af:
+    work_id: D4009
+    span:
+      vol: 67
+      start: 1071642
+      end: 1097971
+  e35089cc88334b84947629cb8b7107e3:
+    work_id: ''
+    span:
+      vol: 67
+      start: 1680464
+      end: 1750011
+  c0a13c96141648b88086df46dd7f92fc:
+    work_id: D4011
+    span:
+      vol: 67
+      start: 1816038
+      end: 1822988
+  779c34c92c7e4b21855fa4ab2144291f:
+    work_id: ''
+    span:
+      vol: 67
+      start: 1887130
+      end: 1894669
+  906859288d8a4a5f8ad0f5583cd2a0b8:
+    work_id: D4013
+    span:
+      vol: 67
+      start: 2011916
+      end: 2028724
+  0dce520d8ec545d1a997c5b71666f941:
+    work_id: D4014
+    span:
+      vol: 67
+      start: 2094117
+      end: 2104600
+  31d6e6499bad4ab998d8c89f9fcd7acc:
+    work_id: D4015
+    span:
+      vol: 67
+      start: 2166765
+      end: 2175630

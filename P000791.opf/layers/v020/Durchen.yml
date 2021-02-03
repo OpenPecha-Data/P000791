@@ -7,34 +7,34 @@ annotations:
     span:
       vol: 20
       start: 495823
-      end: 532196
+      end: 532195
   8ad60b7031564a2b9542bc584e9ff6e1:
     work_id: D1847
     span:
       vol: 20
       start: 1127049
-      end: 1197975
+      end: 1197974
   63f85c479d2f4745bf7aebdd82f1fd2b:
     work_id: D1848
     span:
       vol: 20
       start: 1730707
-      end: 1783753
+      end: 1783752
   d24c0f662133467796c612bd237b12c9:
     work_id: D1849
     span:
       vol: 20
       start: 1878857
-      end: 1888798
+      end: 1888797
   7d870e671b41414d81fc8bcca497e4f5:
     work_id: D1850
     span:
       vol: 20
       start: 1966361
-      end: 1976139
+      end: 1976138
   c8a4175dfa364401a86b5dfd5756b26e:
     work_id: D1851
     span:
       vol: 20
       start: 2423645
-      end: 2476868
+      end: 2476867

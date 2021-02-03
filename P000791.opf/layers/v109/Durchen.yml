@@ -7,100 +7,100 @@ annotations:
     span:
       vol: 109
       start: 71074
-      end: 82174
+      end: 82173
   6908af1131624c7aabd063b80bfa8915:
     work_id: D4283
     span:
       vol: 109
       start: 121181
-      end: 122152
+      end: 122151
   d852bdafab464cb08d61583ce1c8cdd9:
     work_id: D4283
     span:
       vol: 109
       start: 167370
-      end: 170489
+      end: 170488
   9fdcca53a1424edb9e038c96b452c5db:
     work_id: D4284
     span:
       vol: 109
       start: 284737
-      end: 327686
+      end: 327685
   dda9ef9caf824d2988bea2f07e5a8884:
     work_id: D4285
     span:
       vol: 109
       start: 370855
-      end: 378725
+      end: 378724
   98c413036b0249849c4542029428f503:
     work_id: ''
     span:
       vol: 109
       start: 1279346
-      end: 1611032
+      end: 1611031
   0b1b6556af30411bbbfcecc1334811b9:
     work_id: D4287
     span:
       vol: 109
       start: 1799778
-      end: 1866131
+      end: 1866130
   0d2fbfa347cc40d7b140ffbf7ff4e635:
     work_id: D4288
     span:
       vol: 109
       start: 2026442
-      end: 2030510
+      end: 2030509
   970ae301519d408385c0e9550aa5a9b6:
     work_id: D4289
     span:
       vol: 109
       start: 2536103
-      end: 2665116
+      end: 2665115
   ace62769bfca4951aa3104408554b6d8:
     work_id: D4290
     span:
       vol: 109
       start: 2667299
-      end: 2669609
+      end: 2669608
   071a7044c11446028ccae55e2ea8b0ea:
     work_id: D4291
     span:
       vol: 109
       start: 2697596
-      end: 2703952
+      end: 2703951
   b16c6ff3260d42ca8e0dbea5a0dee767:
     work_id: D4292
     span:
       vol: 109
       start: 2729098
-      end: 2733952
+      end: 2733951
   5fe820998b09469a95ecc0c461793769:
     work_id: D4293
     span:
       vol: 109
       start: 2745711
-      end: 2748499
+      end: 2748498
   3b6b6077e2f04f9cb40f7296b6405229:
     work_id: D4294
     span:
       vol: 109
       start: 2831568
-      end: 2847160
+      end: 2847159
   7474dc08d61549d1a41056f9468dd2f6:
     work_id: D4295
     span:
       vol: 109
       start: 2863305
-      end: 2866173
+      end: 2866172
   b920ee5e18e34334806c086d1e942744:
     work_id: D4296
     span:
       vol: 109
       start: 2944355
-      end: 2960976
+      end: 2960975
   75feba0e05a2431eb62b7ee7fc5f248e:
     work_id: ''
     span:
       vol: 109
       start: 3009853
-      end: 3013911
+      end: 3013910

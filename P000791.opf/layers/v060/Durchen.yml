@@ -7,64 +7,64 @@ annotations:
     span:
       vol: 60
       start: 688030
-      end: 742571
+      end: 742570
   93dc80c4bd45480f837a041c6c5aa9ba:
     work_id: D3861
     span:
       vol: 60
       start: 798553
-      end: 799343
+      end: 799342
   83891fc78d0f4fe18abb48a7b39305ec:
     work_id: D3861
     span:
       vol: 60
       start: 857404
-      end: 861635
+      end: 861634
   ea9b692a0db94d0899fddb2846fd27c3:
     work_id: D3862
     span:
       vol: 60
       start: 1296895
-      end: 1337116
+      end: 1337115
   8d8d9444558e4120a3548f58d3df64ad:
     work_id: D3863
     span:
       vol: 60
       start: 1339537
-      end: 1341168
+      end: 1341167
   949e1cb289e14a5bb3b39f65845cbccc:
     work_id: D3864
     span:
       vol: 60
       start: 1437250
-      end: 1445951
+      end: 1445950
   edc6c329c06547feab8b82c2d7a83476:
     work_id: D3865
     span:
       vol: 60
       start: 2150917
-      end: 2231537
+      end: 2231536
   20c3265f308f43738db525d75556a9d7:
     work_id: D3866
     span:
       vol: 60
       start: 2324519
-      end: 2331630
+      end: 2331629
   7e8af62f413d46f9825fa5efd41acc34:
     work_id: D3867
     span:
       vol: 60
       start: 2560590
-      end: 2584198
+      end: 2584197
   75d7a7448f7f474fa867c5590260a7ef:
     work_id: D3868
     span:
       vol: 60
       start: 2711871
-      end: 2724807
+      end: 2724806
   1594ec1ac75b44199c08e049b1967ea5:
     work_id: D3869
     span:
       vol: 60
       start: 2728103
-      end: 2728961
+      end: 2728960

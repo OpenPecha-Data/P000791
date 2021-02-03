@@ -7,10 +7,10 @@ annotations:
     span:
       vol: 99
       start: 1021196
-      end: 1120609
+      end: 1120608
   5ee386b68ca745a7bddfc84275fbe8c7:
     work_id: D4221
     span:
       vol: 99
       start: 2208275
-      end: 2332795
+      end: 2332794

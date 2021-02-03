@@ -7,82 +7,82 @@ annotations:
     span:
       vol: 115
       start: 403762
-      end: 540642
+      end: 540641
   2050ce8dca864d0b85207533411b6c19:
     work_id: ''
     span:
       vol: 115
       start: 646045
-      end: 671926
+      end: 671925
   52199b9902ee4082a485b4bf52491f08:
     work_id: D4348
     span:
       vol: 115
       start: 677121
-      end: 678519
+      end: 678518
   9efb0dbb1c534d2e897605d79a264224:
     work_id: D4349
     span:
       vol: 115
       start: 683448
-      end: 684731
+      end: 684730
   e2866e7758da4fd5979a28f4bdc225d1:
     work_id: ''
     span:
       vol: 115
       start: 692918
-      end: 697754
+      end: 697753
   240dca311db842289da3363c5d07098d:
     work_id: D4351
     span:
       vol: 115
       start: 730540
-      end: 738672
+      end: 738671
   aa974d898b324ca9a2e758d275b166a2:
     work_id: ''
     span:
       vol: 115
       start: 768496
-      end: 770433
+      end: 770432
   119e3d3cbfed49129bec3cfe2089bee6:
     work_id: ''
     span:
       vol: 115
       start: 880730
-      end: 897047
+      end: 897046
   18540635fb174a919d1eecedff7364d7:
     work_id: ''
     span:
       vol: 115
       start: 910933
-      end: 913659
+      end: 913658
   34310e7fe64b43bc862973fcecbd21ec:
     work_id: ''
     span:
       vol: 115
       start: 969961
-      end: 979556
+      end: 979555
   bda34317888442198d64c6e1738679ff:
     work_id: ''
     span:
       vol: 115
       start: 1018035
-      end: 1025943
+      end: 1025942
   0cba7d47dadd4d74b2c1e8d0030a22ee:
     work_id: ''
     span:
       vol: 115
       start: 1032604
-      end: 1034804
+      end: 1034803
   70a8d27ac4b446e895a50dd8f9da7713:
     work_id: ''
     span:
       vol: 115
       start: 1496394
-      end: 1564321
+      end: 1564320
   3c881e2c841b49d8acfa3e0c6bbbf955:
     work_id: ''
     span:
       vol: 115
       start: 2600104
-      end: 2699122
+      end: 2699121

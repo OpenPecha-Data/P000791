@@ -7,16 +7,16 @@ annotations:
     span:
       vol: 107
       start: 452669
-      end: 504462
+      end: 504461
   9dfb3c3143c34f34acf82f5d66baf043:
     work_id: D4267
     span:
       vol: 107
       start: 1344745
-      end: 1439756
+      end: 1439755
   e9ef2c450d944fcd80257611b1abe795:
     work_id: D4267
     span:
       vol: 107
       start: 2592781
-      end: 2724081
+      end: 2724080

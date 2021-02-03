@@ -7,58 +7,58 @@ annotations:
     span:
       vol: 35
       start: 238123
-      end: 283817
+      end: 283816
   59dd33dacead40c7a9343f8da0401ccb:
     work_id: D2663
     span:
       vol: 35
       start: 981693
-      end: 1080044
+      end: 1080043
   6d110701bd5041b3b0b0a23918e3cfa2:
     work_id: D2663a
     span:
       vol: 35
       start: 1405839
-      end: 1436479
+      end: 1436478
   74809359ed604364b13081a139f2dfa8:
     work_id: D2663a
     span:
       vol: 35
       start: 1832479
-      end: 1884380
+      end: 1884379
   b7774278f122472f9f84d1f7af2dc07e:
     work_id: D2664
     span:
       vol: 35
       start: 1938810
-      end: 1945148
+      end: 1945147
   20c47ad5f837486dbef56c278015604b:
     work_id: D2665
     span:
       vol: 35
       start: 1968835
-      end: 1972180
+      end: 1972179
   659b8821ea88451299e40b31a161544b:
     work_id: D2666
     span:
       vol: 35
       start: 2092219
-      end: 2110351
+      end: 2110350
   7898036786ea4e73a68a46b8b0dd674a:
     work_id: D2667
     span:
       vol: 35
       start: 2129624
-      end: 2133872
+      end: 2133871
   74d340ed73284ad18beb94560be032c6:
     work_id: ''
     span:
       vol: 35
       start: 2146334
-      end: 2150017
+      end: 2150016
   9446fccdb2a74149874184b9d6ee51ae:
     work_id: D2669
     span:
       vol: 35
       start: 2505866
-      end: 2554812
+      end: 2554811

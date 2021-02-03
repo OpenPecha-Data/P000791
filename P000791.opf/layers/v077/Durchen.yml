@@ -7,88 +7,88 @@ annotations:
     span:
       vol: 77
       start: 13423
-      end: 15163
+      end: 15162
   ebd53fd3cd65427ba7b4b2526fd4baa4:
     work_id: D4056
     span:
       vol: 77
       start: 18396
-      end: 19109
+      end: 19108
   13f79c70f25641dcba53631d0d2f4daf:
     work_id: D4057
     span:
       vol: 77
       start: 38980
-      end: 41880
+      end: 41879
   b495132fede54f338ba893f5b86f762a:
     work_id: D4058
     span:
       vol: 77
       start: 46862
-      end: 48278
+      end: 48277
   e4f50aa5a8454d52911283abd12c76a1:
     work_id: D4059
     span:
       vol: 77
       start: 66477
-      end: 68740
+      end: 68739
   9443cf72e20b44d18644b5177007e687:
     work_id: D4060
     span:
       vol: 77
       start: 105027
-      end: 109783
+      end: 109782
   ef40aed8292143e5b318155ac95670d9:
     work_id: D4061
     span:
       vol: 77
       start: 460196
-      end: 501337
+      end: 501336
   0d364b616f124f378d78e8635b15b518:
     work_id: D4062
     span:
       vol: 77
       start: 537357
-      end: 541128
+      end: 541127
   307adf8e383b478e8107b8d50dde5484:
     work_id: D4063
     span:
       vol: 77
       start: 545164
-      end: 546141
+      end: 546140
   db44c8b1b71b44d3aba21365eaeebe3b:
     work_id: D4064
     span:
       vol: 77
       start: 631515
-      end: 641723
+      end: 641722
   8c98213c981f48ceb1dfb0ea3b32cc62:
     work_id: D4065
     span:
       vol: 77
       start: 725582
-      end: 737511
+      end: 737510
   2c4d9b313fb64b7281d997ed131c106a:
     work_id: D4066
     span:
       vol: 77
       start: 923322
-      end: 938710
+      end: 938709
   16eaeed487bd4b9ab2ffba68f72659ed:
     work_id: D4067
     span:
       vol: 77
       start: 1041583
-      end: 1050983
+      end: 1050982
   89fcebe6835a42dda05882c732d152f2:
     work_id: D4068
     span:
       vol: 77
       start: 1421946
-      end: 1454685
+      end: 1454684
   2c7c839c78814f089cd78d0e1db87e57:
     work_id: D4069
     span:
       vol: 77
       start: 2036653
-      end: 2122947
+      end: 2122946

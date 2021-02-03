@@ -7,100 +7,100 @@ annotations:
     span:
       vol: 62
       start: 308841
-      end: 340233
+      end: 340232
   bc2cdff45cd4423d8dcf0000fa1fbd2b:
     work_id: D3875
     span:
       vol: 62
       start: 358042
-      end: 360841
+      end: 360840
   05e007521bf34f4ca174a094ec5f5206:
     work_id: D3875a
     span:
       vol: 62
       start: 575967
-      end: 598673
+      end: 598672
   5b44fcf2cd8f41a9844cb0437d87f42b:
     work_id: ''
     span:
       vol: 62
       start: 664928
-      end: 672037
+      end: 672036
   2d2038dddfcc4513a199a83e0b5663cb:
     work_id: ''
     span:
       vol: 62
       start: 710120
-      end: 714226
+      end: 714225
   9ef1dcd1394b45fba3c67f392b29ab45:
     work_id: D3878
     span:
       vol: 62
       start: 724806
-      end: 727306
+      end: 727305
   fb733d2863594022acaf9226323dd976:
     work_id: ''
     span:
       vol: 62
       start: 731958
-      end: 732899
+      end: 732898
   280b83cde7d14a9493a72d35cae7480b:
     work_id: D3880
     span:
       vol: 62
       start: 1051484
-      end: 1085508
+      end: 1085507
   68a36082ad8945818fc0b25faf8d2a89:
     work_id: D3881
     span:
       vol: 62
       start: 1091915
-      end: 1092396
+      end: 1092395
   fb5b15fe2e5a43ab856c86608f7a0c8d:
     work_id: D3882
     span:
       vol: 62
       start: 1135321
-      end: 1136002
+      end: 1136001
   39ff964cf0da4cdfb8fc631ee4d85825:
     work_id: D3883
     span:
       vol: 62
       start: 1272852
-      end: 1285763
+      end: 1285762
   57a7bcc2e460474c92ee946f614d7732:
     work_id: D3884
     span:
       vol: 62
       start: 1297986
-      end: 1300512
+      end: 1300511
   28fb839fed414281963361a70a78c72f:
     work_id: D3885
     span:
       vol: 62
       start: 1396193
-      end: 1405904
+      end: 1405903
   42c2a507d6674eea9ef437c868b65dd4:
     work_id: D3886
     span:
       vol: 62
       start: 1581587
-      end: 1600325
+      end: 1600324
   8a6dc43e335f41899c4f6fe3e860b52c:
     work_id: D3887
     span:
       vol: 62
       start: 1989318
-      end: 2021843
+      end: 2021842
   fe398cdd82f84da39d249baf7ea3244a:
     work_id: D3888
     span:
       vol: 62
       start: 2118892
-      end: 2127254
+      end: 2127253
   4ceb9fb6d1804ae58fa6dc52ddacfbd6:
     work_id: ''
     span:
       vol: 62
       start: 2192743
-      end: 2197602
+      end: 2197601

@@ -7,250 +7,250 @@ annotations:
     span:
       vol: 18
       start: 58519
-      end: 63527
+      end: 63526
   1b03ba61d9eb478e81b98fba8082663c:
     work_id: D1797
     span:
       vol: 18
       start: 79207
-      end: 81752
+      end: 81751
   ef57549243e041e7bc594c01f305105c:
     work_id: D1798
     span:
       vol: 18
       start: 154103
-      end: 165829
+      end: 165828
   923161d98ba44f938a739b4e7fc6aa01:
     work_id: D1799
     span:
       vol: 18
       start: 176007
-      end: 178644
+      end: 178643
   b43b285113c541d7a6d31e91524a1142:
     work_id: D1800
     span:
       vol: 18
       start: 193454
-      end: 195909
+      end: 195908
   151a5287d57c498bbe2c2f5e604d3aea:
     work_id: D1801
     span:
       vol: 18
       start: 205331
-      end: 206565
+      end: 206564
   b82ba4797b894c17a6aeab0b25821b63:
     work_id: D1802
     span:
       vol: 18
       start: 246633
-      end: 251314
+      end: 251313
   dd51802143f547b7b8e14d29924b6d07:
     work_id: D1803
     span:
       vol: 18
       start: 424950
-      end: 440500
+      end: 440499
   465069c1b24d4ca7b437b7c50630fffc:
     work_id: D1804
     span:
       vol: 18
       start: 458423
-      end: 461611
+      end: 461610
   dd60d88895b543e1bdb28ae931784c1a:
     work_id: D1805
     span:
       vol: 18
       start: 469692
-      end: 472637
+      end: 472636
   58a8cbc45eb643bfa46263a44c09c770:
     work_id: D1806
     span:
       vol: 18
       start: 480522
-      end: 483269
+      end: 483268
   7978b4e4c6a04c9386ca88d0e12881ca:
     work_id: D1807
     span:
       vol: 18
       start: 488663
-      end: 491101
+      end: 491100
   3d0a6131583541178a5d94c034b7229a:
     work_id: D1808
     span:
       vol: 18
       start: 500601
-      end: 503344
+      end: 503343
   720c7d8d740240a8832742c257e36736:
     work_id: D1809
     span:
       vol: 18
       start: 537882
-      end: 542752
+      end: 542751
   e01b644998684e7199847ce5e6825290:
     work_id: D1810
     span:
       vol: 18
       start: 593418
-      end: 600953
+      end: 600952
   b5931b4591ed44609734acb0fa76f775:
     work_id: D1811
     span:
       vol: 18
       start: 605994
-      end: 607137
+      end: 607136
   97e407d1eefc4504a471f637066b3de9:
     work_id: D1812
     span:
       vol: 18
       start: 613639
-      end: 615114
+      end: 615113
   d4cdda9e89db4ff2b62b12c3c5713339:
     work_id: ''
     span:
       vol: 18
       start: 777750
-      end: 800240
+      end: 800239
   b1f1b3078e044c668810dbb24a79434f:
     work_id: D1814
     span:
       vol: 18
       start: 830288
-      end: 834832
+      end: 834831
   3016609c48534b4cae782d5ea7a4fdce:
     work_id: D1815
     span:
       vol: 18
       start: 849301
-      end: 851939
+      end: 851938
   c4e5c1c908204bc39b2be2ecdd68424b:
     work_id: ''
     span:
       vol: 18
       start: 857426
-      end: 859057
+      end: 859056
   6185c585e4f24c1e92728d8f7a970730:
     work_id: D1817
     span:
       vol: 18
       start: 938612
-      end: 947752
+      end: 947751
   cfc9e374e077450fb67ad1a0b26ed3a2:
     work_id: D1818
     span:
       vol: 18
       start: 997818
-      end: 1005681
+      end: 1005680
   b09060aae71e4c698fc9a51eac7a7eda:
     work_id: D1819
     span:
       vol: 18
       start: 1044869
-      end: 1050495
+      end: 1050494
   55c823efabe64f15844ecaea4086f6d0:
     work_id: D1820
     span:
       vol: 18
       start: 1062200
-      end: 1065109
+      end: 1065108
   cfd619b4f0bf454386e4e62379484ea9:
     work_id: D2114
     span:
       vol: 18
       start: 1068934
-      end: 1070252
+      end: 1070251
   b08ce59e6a32453596b964fe83f47279:
     work_id: D1822
     span:
       vol: 18
       start: 1086691
-      end: 1089615
+      end: 1089614
   88ab4f1dbb604a8ebc9ef971a46d24ff:
     work_id: D1823
     span:
       vol: 18
       start: 1131013
-      end: 1136784
+      end: 1136783
   3cd1a5c3e1a14fd5b8eda87853b6ed9a:
     work_id: ''
     span:
       vol: 18
       start: 1140451
-      end: 1141862
+      end: 1141861
   51815e824a5d4092994c61e401ff0cb6:
     work_id: D1825
     span:
       vol: 18
       start: 1161138
-      end: 1164682
+      end: 1164681
   9ba347c11b7348e8a90170705238049a:
     work_id: D1826
     span:
       vol: 18
       start: 1482229
-      end: 1525349
+      end: 1525348
   1159a106405044ec80823f065c0eb4ec:
     work_id: D1827
     span:
       vol: 18
       start: 1589492
-      end: 1599764
+      end: 1599763
   b979ea2c6c0049d38e7053e61c4b9c19:
     work_id: D1828
     span:
       vol: 18
       start: 1606131
-      end: 1607388
+      end: 1607387
   d8f13026d36c4969923184b265d50b90:
     work_id: D1829
     span:
       vol: 18
       start: 1692699
-      end: 1706778
+      end: 1706777
   df9bcf234d5041d589c695715f7354ba:
     work_id: D1830
     span:
       vol: 18
       start: 1833873
-      end: 1848051
+      end: 1848050
   acb915c2b5a74e1d82af5ce698ea6817:
     work_id: D1831
     span:
       vol: 18
       start: 1929229
-      end: 1939636
+      end: 1939635
   1941acc918c94c8ca26b5532f8035682:
     work_id: D1832
     span:
       vol: 18
       start: 1956414
-      end: 1959600
+      end: 1959599
   ffcafb5714cf4aa0beadb37ef47158b5:
     work_id: D1833
     span:
       vol: 18
       start: 2061293
-      end: 2071288
+      end: 2071287
   64882eb168704a4b999737113c7ee112:
     work_id: D1834
     span:
       vol: 18
       start: 2221677
-      end: 2236671
+      end: 2236670
   9939175b9d4241739b2e253c78231db2:
     work_id: D1835
     span:
       vol: 18
       start: 2253968
-      end: 2256782
+      end: 2256781
   5411e6ef7b54475695976c7497334166:
     work_id: D1836
     span:
       vol: 18
       start: 2328752
-      end: 2337658
+      end: 2337657
   b343601c60664119a5766fb15910fee9:
     work_id: D1837
     span:
       vol: 18
       start: 2345611
-      end: 2347677
+      end: 2347676

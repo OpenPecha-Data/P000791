@@ -1,3 +1,6 @@
+work_id: W1PD95844
+img_grp_offset: 845
+pref: I1PD95
 vol2fn:
   v001: v001
   v002: v002
@@ -50,7 +53,7 @@ vol2fn:
   v049: v049
   v050: v050
   v051: v051
-  v052: 'v052 '
+  v052: v052
   v053: v053
   v054: v054
   v055: v055

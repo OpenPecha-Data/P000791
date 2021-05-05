@@ -1604,6 +1604,7 @@ annotations:
     span:
       start: 290302
       end: 291085
+    note_ref: a5d7e152a9ac4abdb4827442556780db
   efe7df44f95f41918c92f5b552d62cf5:
     page_index: 115a
     page_info: ''
@@ -1611,6 +1612,7 @@ annotations:
     span:
       start: 291088
       end: 292477
+    note_ref: a5d7e152a9ac4abdb4827442556780db
   9787d67b32134f438747a44c56a0d4fe:
     page_index: 115b
     page_info: ''
@@ -1618,6 +1620,7 @@ annotations:
     span:
       start: 292480
       end: 293887
+    note_ref: a5d7e152a9ac4abdb4827442556780db
   a5d7e152a9ac4abdb4827442556780db:
     page_index: 116a
     page_info: ''

@@ -1451,6 +1451,8 @@ annotations:
     span:
       start: 264634
       end: 265733
+    note_ref: 8eb66aa1f0ba429f873356b8f3b5f6a6
+    note_ref_pg_num: 210
   1ad72cf9d547474096d6c2f2d5c83ec4:
     page_index: 104b
     page_info: ''
@@ -1458,6 +1460,8 @@ annotations:
     span:
       start: 265736
       end: 267105
+    note_ref: 8eb66aa1f0ba429f873356b8f3b5f6a6
+    note_ref_pg_num: 210
   eaeaca6e81db4cc4a3937a2ec1c3669a:
     page_index: 105a
     page_info: ''
@@ -1465,6 +1469,8 @@ annotations:
     span:
       start: 267108
       end: 267856
+    note_ref: 8eb66aa1f0ba429f873356b8f3b5f6a6
+    note_ref_pg_num: 210
   8eb66aa1f0ba429f873356b8f3b5f6a6:
     page_index: 105b
     page_info: ''

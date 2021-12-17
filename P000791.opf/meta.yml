@@ -122,7 +122,6 @@ vol2fn:
   v118: v118
   v119: v119
   v120: v120
-
 id: P000791
 initial_creation_type: ocr
 source_metadata:
@@ -130,3 +129,6 @@ source_metadata:
   title: བསྟན་འགྱུར། ༼དཔེ་བསྡུར་མ༽
   author: ''
   volumes: {}
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+last_modified_at: 2021-12-17 10:10:55.615204
